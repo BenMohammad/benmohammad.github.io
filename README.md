@@ -1,6 +1,3 @@
-# benmohammad.github.io
-Privacy policy Google Play.....
-
 Privacy policy for Google Play.
 
 This page is used to inform visitors regarding my policies with the collection, 
