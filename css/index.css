@@ -76,7 +76,7 @@ font-weight: 700;
 /*section Four*/
 
 .sectionFour{
-    margin-top: 100px;
+    margin-top: 20px;
 }
 .sectionFour span{
     color: var(--green-Color);
@@ -102,7 +102,7 @@ font-weight: 700;
 /*section Five*/
 
 .sectionFive{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .sectionFive span{
     color: var(--green-Color);
