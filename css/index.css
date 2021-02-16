@@ -25,12 +25,12 @@ body{
     width: 85%;
 }
 .service p{
-    margin-top: 20px;
+    margin-top: 10px;
     width: 75%;
 }
 .service a{
     color: var(--green-Color);
-    height: 30px;
+    height: 60px;
 }
 .containt{
     margin-top: 50px;
@@ -123,5 +123,5 @@ font-weight: 700;
 
 .sectionFive{
     width: 65%;
-    margin-bottom: 200px;
+    margin-bottom: 20px;
 }
