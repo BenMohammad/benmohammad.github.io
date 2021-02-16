@@ -38,7 +38,7 @@ body{
 
 /*Section 2*/
 .sectionTwo{
-    margin-top: 128px;
+    margin-top: 28px;
 }
 
 .sectionTwo header h1{
@@ -51,7 +51,7 @@ font-weight: 700;
     margin-top: 20px;
 }
 .sectionTwo a{
-    margin-top: 30px;
+    margin-top: 20px;
 }
 .sectionTwo button{
     background-color: var(--green-Color);
@@ -67,7 +67,7 @@ font-weight: 700;
 
 .sectionThree{
     background-color: var(--grey-Color);
-    padding: 50px;
+    padding: 20px;
     text-align: center;
 }
 /*End section Three*/
