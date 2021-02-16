@@ -39,6 +39,7 @@ body{
 /*Section 2*/
 .sectionTwo{
     margin-top: 28px;
+    padding: 60px;
 }
 
 .sectionTwo header h1{
@@ -62,7 +63,7 @@ font-weight: 700;
 
 /*section Three*/
 .sectionThree{
-    margin-top: 80px;
+    margin-top: 20px;
 }
 
 .sectionThree{
