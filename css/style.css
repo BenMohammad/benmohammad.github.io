@@ -340,7 +340,7 @@ a {
 
 .nav-slide div p {
     color: #008ED6;
-    font-family: "Lucida Bright",Georgia,serif;
+    font-family: 'Krub', sans-serif;
     font-size: 75%;
     font-style: italic;
     margin: 0;
@@ -566,7 +566,7 @@ header.title h2 {
 
 .separator h2.quot-title:before,
 .separator h2.quot-title:after {
-  font-family: "FontAwesome";
+  font-family: 'Krub', sans-serif;
   font-size: 18px;
   display: inline-table;
   vertical-align: top;
@@ -1119,7 +1119,7 @@ address span a {
 
 .map-tooltip h2 {
   color: #000;
-  font-family: "Raleway";
+  font-family: 'Krub', sans-serif;
   font-weight: 700;
 }
 
