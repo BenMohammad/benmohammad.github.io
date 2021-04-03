@@ -52,7 +52,7 @@ var SliderStatus = true;
 	function SliderInterval(){
 		SliderTimeout = setInterval(function(){
 			if(SliderStatus) loader(true);
-		}, 300);
+		}, 5000);
 	}
 
 	function startImageHeader(){
@@ -89,7 +89,7 @@ var SliderStatus = true;
 		        setTimeout(function(){
 		        	loaderSVG.hide();
 		        	SliderInterval();
-		        }, 100);
+		        }, 4000);
 
 		        activeSlide.css("background-image", "url('" + activeImg + "')");
 			
