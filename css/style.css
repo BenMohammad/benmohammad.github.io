@@ -1,6 +1,5 @@
 :root{
-
-
+ 
 --green-Color : #4D4DFF;
 
 --grey-Color : #edf2f7;
@@ -10,6 +9,7 @@
 
 
 body{
+  padding: 18px;
 
 font-family: 'Source Sans Pro', sans-serif;
 
