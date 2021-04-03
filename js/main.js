@@ -52,7 +52,7 @@ var SliderStatus = true;
 	function SliderInterval(){
 		SliderTimeout = setInterval(function(){
 			if(SliderStatus) loader(true);
-		}, 5000);
+		}, 100000);
 	}
 
 	function startImageHeader(){
@@ -89,7 +89,7 @@ var SliderStatus = true;
 		        setTimeout(function(){
 		        	loaderSVG.hide();
 		        	SliderInterval();
-		        }, 4000);
+		        }, 50);
 
 		        activeSlide.css("background-image", "url('" + activeImg + "')");
 			
@@ -175,7 +175,7 @@ var SliderStatus = true;
 				$.smoothScroll({
 					offset : -navBar.innerHeight(),
 					scrollTarget: "#" + parts[1],
-					speed : 500
+					speed : 200
 				});
 			}
 
@@ -204,14 +204,6 @@ var SliderStatus = true;
 	        }
 	    }, {
 	        accY: -150
-	    });
-
-	    $(".skill-bar .percentage").appear(function() {
-	        var element = $(this),
-	        	animation = element.data("value");
-	        element.animate({
-	        	"width" : animation
-	        }, 2000);
 	    });
 	});
 
