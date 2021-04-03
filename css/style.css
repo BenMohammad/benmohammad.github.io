@@ -1,10 +1,3 @@
-/*
-	Daraz by TEMPLATE STOCK
-    templatestock.co @templatestock
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
-*/
-
-
 
 ::-moz-selection { /* Code for Firefox */
   color: #fff;
@@ -17,8 +10,7 @@
 }
 
 html {
-  height: 100%;
-  list-style-type: none;
+  height: 100%;  
 }
 
 body {
@@ -662,12 +654,12 @@ span.quot-name:before {
 }
 
 .about-icon {
-  font-size: 45px;
+  font-size: 30px;
   color: #888987;
 }
 
 .about-detail {
-  width: 70%;
+  width: 100%;
 }
 
 .about-content h4 {
@@ -677,11 +669,6 @@ span.quot-name:before {
   font-size: 15px;
 }
 
-
-
-
-
-/*COUNTER*/
 
 .counter {
   margin: 25px 0;
