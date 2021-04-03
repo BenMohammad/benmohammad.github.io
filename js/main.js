@@ -89,7 +89,7 @@ var SliderStatus = true;
 		        setTimeout(function(){
 		        	loaderSVG.hide();
 		        	SliderInterval();
-		        }, 1000);
+		        }, 100000);
 
 		        activeSlide.css("background-image", "url('" + activeImg + "')");
 			
