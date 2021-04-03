@@ -52,7 +52,7 @@ var SliderStatus = true;
 	function SliderInterval(){
 		SliderTimeout = setInterval(function(){
 			if(SliderStatus) loader(true);
-		}, 800000);
+		}, 500);
 	}
 
 	function startImageHeader(){
@@ -131,7 +131,7 @@ var SliderStatus = true;
 
 		setTimeout(function(){
 			startImageHeader();
-		}, 100);	
+		}, 100000);	
 	}
 
 	startImageHeader();
