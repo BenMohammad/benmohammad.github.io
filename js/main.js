@@ -131,7 +131,7 @@ var SliderStatus = true;
 
 		setTimeout(function(){
 			startImageHeader();
-		}, 100);	
+		}, 2000);	
 	}
 
 	startImageHeader();
@@ -211,7 +211,7 @@ var SliderStatus = true;
 	        	animation = element.data("value");
 	        element.animate({
 	        	"width" : animation
-	        }, 500);
+	        }, 100);
 	    });
 	});
 
