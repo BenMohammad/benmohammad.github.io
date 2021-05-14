@@ -9,7 +9,7 @@ provided to me by default from Google (e.g. crash reports, number of users who h
 the app). I currently use AdMob ads by google, and they will collect data about your advertisement
 viewing habits such as what you clicked on. However, I do not have any use for your data and 
 have no plans to collect any myself, and certainly would never sell it to an outside party.
-For a better experience, while using my Service, I may require you to provide us with certain 
+For a better experience, while using my Service, I may require you to provide me with certain 
 personally identifiable information. The information that I request will be retained on your device 
 and is not collected by me in any way.
 
